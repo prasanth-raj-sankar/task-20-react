@@ -25,4 +25,3 @@ const Price = ({ type, price, features }) => {
 };
 
 export default Price;
-c
