@@ -1,0 +1,80 @@
+/* price.css */
+
+
+/* price.css */
+
+.app-container {
+  display: flex;
+  justify-content: space-around; /* Adjust as needed */
+}
+
+.price-card {
+  background-color: #f0f0f0;
+  padding: 16px;
+  margin: 16px;
+  width: 300px; /* Adjust width as needed */
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+}
+
+.price-card h2 {
+  font-size: 24px;
+  margin-bottom: 8px;
+}
+
+.price-card p {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+.price-card ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.price-card li {
+  margin-bottom: 4px;
+}
+
+.price-card {
+  background-color: #fff; /* Example background color */
+  padding: 16px;
+  margin-bottom: 16px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a box shadow for depth */
+}
+
+.price-card h2 {
+  font-size: 24px;
+  margin-bottom: 8px;
+}
+
+.price-card p {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+.price-card ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.price-card li {
+  margin-bottom: 4px;
+}
+
+
+body {
+  background-color: #33aeff; /* or any shade of blue you prefer */
+  margin: 0;
+}
+
+.button{
+  width: 100%;
+  border-radius: 34px;
+  padding: 10px;
+  font-size: 18px;
+}
